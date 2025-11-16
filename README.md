@@ -1,2 +1,2 @@
-# Java8
-Java 8 test repo
+# Java
+Java test repo
